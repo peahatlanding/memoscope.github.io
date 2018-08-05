@@ -3,63 +3,63 @@
   <channel>
     <title>The Memoscope</title>
     <description>A collection of short horror comics.</description>
-    <link>peahatlanding.github.io/memoscope/</link>
-    <atom:link href="peahatlanding.github.io/memoscope/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Jul 2018 13:49:13 -0700</pubDate>
-    <lastBuildDate>Tue, 24 Jul 2018 13:49:13 -0700</lastBuildDate>
+    <link>http://127.0.0.1:4000//</link>
+    <atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 04 Aug 2018 21:52:44 -0700</pubDate>
+    <lastBuildDate>Sat, 04 Aug 2018 21:52:44 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
-
+    
       <item>
         <title>4</title>
-        <description>&lt;p&gt;&lt;img src=&quot;peahatlanding.github.io/memoscope/pages/004.png&quot; alt=&quot;PAGE FOUR&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/004.png&quot; alt=&quot;PAGE FOUR&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Apr 2017 11:42:56 -0700</pubDate>
-        <link>peahatlanding.github.io/memoscope/004</link>
-        <guid isPermaLink="true">peahatlanding.github.io/memoscope/004</guid>
-
-
+        <link>http://127.0.0.1:4000//004</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//004</guid>
+        
+        
         <category>page</category>
-
+        
       </item>
-
+    
       <item>
         <title>3</title>
-        <description>&lt;p&gt;&lt;img src=&quot;peahatlanding.github.io/memoscope/pages/003.png&quot; alt=&quot;PAGE THREE&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/003.png&quot; alt=&quot;PAGE THREE&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Apr 2017 11:42:56 -0700</pubDate>
-        <link>peahatlanding.github.io/memoscope/003</link>
-        <guid isPermaLink="true">peahatlanding.github.io/memoscope/003</guid>
-
-
+        <link>http://127.0.0.1:4000//003</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//003</guid>
+        
+        
         <category>page</category>
-
+        
       </item>
-
+    
       <item>
         <title>2</title>
-        <description>&lt;p&gt;&lt;img src=&quot;peahatlanding.github.io/memoscope/pages/002.png&quot; alt=&quot;PAGE TWO&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/002.png&quot; alt=&quot;PAGE TWO&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Apr 2017 11:42:56 -0700</pubDate>
-        <link>peahatlanding.github.io/memoscope/002</link>
-        <guid isPermaLink="true">peahatlanding.github.io/memoscope/002</guid>
-
-
+        <link>http://127.0.0.1:4000//002</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//002</guid>
+        
+        
         <category>page</category>
-
+        
       </item>
-
+    
       <item>
         <title>1</title>
-        <description>&lt;p&gt;&lt;img src=&quot;peahatlanding.github.io/memoscope/pages/001.png&quot; alt=&quot;PAGE ONE&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/001.png&quot; alt=&quot;PAGE ONE&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Apr 2017 11:42:56 -0700</pubDate>
-        <link>peahatlanding.github.io/memoscope/001</link>
-        <guid isPermaLink="true">peahatlanding.github.io/memoscope/001</guid>
-
-
+        <link>http://127.0.0.1:4000//001</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//001</guid>
+        
+        
         <category>page</category>
-
+        
       </item>
-
+    
   </channel>
 </rss>

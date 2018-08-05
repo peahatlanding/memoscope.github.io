@@ -1,13 +1,12 @@
 <!-- Fixed navbar -->
-<div class="header">
-  <h2>Scroll Down</h2>
-  <p>Scroll down to see the sticky effect.</p>
-</div>
 
 <div id="navbar">
-  <a class="active" href="javascript:void(0)">Home</a>
-  <a href="javascript:void(0)">News</a>
-  <a href="javascript:void(0)">Contact</a>
+  <ul class="nav">
+      <li><a href={{ site.url }}/>HOME</a></li>
+      <li><a href={{ site.url }}/about>ABOUT</a></li>
+      <li><a href={{ site.url }}/archive>ARCHIVE</a></li>
+  </ul>
+
 </div>
 <!-- <nav class="navbar sticky-top navbar-light bg-light" role="navigation">
     <div class="container">
@@ -18,7 +17,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-        </div>
+        </div> -->
         <!-- Collect the nav links, forms, and other content for toggling -->
         <!-- <div class="navbar navbar-default" id="navbar">
             <ul class="nav navbar-nav">

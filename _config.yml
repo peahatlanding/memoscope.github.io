@@ -17,7 +17,7 @@ title: The Memoscope
 tab_title: The Memoscope #This text shows up on the browser tab
 email:
 description: A collection of short horror comics.
-url: "peahatlanding.github.io/memoscope" # the base hostname & protocol for your site
+url: "https://peahatlanding.github.io/memoscope/" # the base hostname & protocol for your site
 
 # Comic Social Media
 tumblr_username: http://thememoscope.tumblr.com
@@ -26,6 +26,7 @@ tumblr_username: http://thememoscope.tumblr.com
 author_twitter_username: http://twitter.com/stalnox
 author_tumblr_username: http://skelehime.tumblr.com
 author_patreon_username:
+author_instagram: https://instagram.com/peahatpeahat
 
 
 

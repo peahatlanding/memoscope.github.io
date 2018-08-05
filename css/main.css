@@ -12,6 +12,12 @@ body {
   background-color: #F5EED4;
 }
 
+.jumbotron img {
+  max-height: 100%;
+  max-width: 100%;
+
+}
+
 a {
   color: #FCF3CF;
   font-family: 'Karla', sans-serif;
@@ -43,7 +49,7 @@ h2 {
 
 h3 {
   color: #C39BD3;
- font-family: 'Jolly Lodger', cursive;
+  font-family: 'Jolly Lodger', cursive;
 }
 
 p {
@@ -52,13 +58,18 @@ p {
   text-align: left;
 }
 
-.css-selector {
-  font-family: 'Font Name', serif;
-}
-
 img {
     max-height: 100%;
     max-width: 100%;
+}
+
+.btn {
+  color: #FCF3CF;
+  font-family: 'Karla', sans-serif;
+}
+
+.btn-outline-primary {
+  border-color: #FCF3CF;
 }
 
 #turn {
@@ -98,27 +109,17 @@ img {
 /* Style the navbar */
 #navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: transparent;
 }
 
 /* Navbar links */
 #navbar a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #363636;
   text-align: center;
   padding: 14px;
   text-decoration: none;
-}
-
-/* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-.sticky + .content {
-  padding-top: 60px;
+  font-family: 'Jolly Lodger', cursive;
+  font-size: 3em;
 }

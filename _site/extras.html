@@ -8,17 +8,48 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
     <!-- Custom styles for webcomic -->
-    <link rel="stylesheet" href=peahatlanding.github.io/memoscopecss/main.css>
+    <link rel="stylesheet" href=http://127.0.0.1:4000//css/main.css>
 
     <!-- Fonts -->
-    <link rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Cute+Font|Jolly+Lodger|Montserrat|Nixie+One|Offside|Karla">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cute+Font|Jolly+Lodger|Montserrat|Nixie+One|Offside|Karla">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <title>The Memoscope</title>
   </head>
   <body>
     <div class="jumbotron jumbotron-fluid">
       <div class="container">
+              <!-- Fixed navbar -->
+
+<div id="navbar">
+  <ul class="nav">
+      <li><a href=http://127.0.0.1:4000//>HOME</a></li>
+      <li><a href=http://127.0.0.1:4000//about>ABOUT</a></li>
+      <li><a href=http://127.0.0.1:4000//archive>ARCHIVE</a></li>
+  </ul>
+
+</div>
+<!-- <nav class="navbar sticky-top navbar-light bg-light" role="navigation">
+    <div class="container">
+        <div id="navbar" class>
+            <button type="button">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div> -->
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <!-- <div class="navbar navbar-default" id="navbar">
+            <ul class="nav navbar-nav">
+                <li><a href=http://127.0.0.1:4000//001 >FIRST PAGE</a></li>
+                <li><a href=http://127.0.0.1:4000//about>ABOUT</a></li>
+                <li><a href=http://127.0.0.1:4000//extras>EXTRAS</a></li>
+                <li><a href=http://127.0.0.1:4000//archive>ARCHIVE</a></li>
+            </ul>
+        </div>
+    </div>
+</nav> -->
+
         <img id="turn" src="images/circl.png" class="center">
         <img id="banner" src="images/banner.png">
         <p class="lead">and other horror stories</p>
@@ -26,6 +57,7 @@
     </div><!-- end jumbotron -->
 
     <div class="container">
+
       <div class="content">
         <div class="row">
           <div class="col-md-12">
@@ -38,38 +70,6 @@
             </div><!-- end info -->
 
           </div>
-                                <!-- Fixed navbar -->
-<div class="header">
-  <h2>Scroll Down</h2>
-  <p>Scroll down to see the sticky effect.</p>
-</div>
-
-<div id="navbar">
-  <a class="active" href="javascript:void(0)">Home</a>
-  <a href="javascript:void(0)">News</a>
-  <a href="javascript:void(0)">Contact</a>
-</div>
-<!-- <nav class="navbar sticky-top navbar-light bg-light" role="navigation">
-    <div class="container">
-        <div id="navbar" class>
-            <button type="button">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-        </div>
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <!-- <div class="navbar navbar-default" id="navbar">
-            <ul class="nav navbar-nav">
-                <li><a href=peahatlanding.github.io/memoscope/001 >FIRST PAGE</a></li>
-                <li><a href=peahatlanding.github.io/memoscope/about>ABOUT</a></li>
-                <li><a href=peahatlanding.github.io/memoscope/extras>EXTRAS</a></li>
-                <li><a href=peahatlanding.github.io/memoscope/archive>ARCHIVE</a></li>
-            </ul>
-        </div>
-    </div>
-</nav> -->
 
         </div><!-- end row 1-->
 
@@ -80,13 +80,16 @@
 
             <h3>The Magazine</h3>
             <p>An autobiographical comic about a scary dream.</P>
-              <a href="peahatlanding.github.io/memoscope001">Read it</a>
+            <a href="http://127.0.0.1:4000/001" class="btn btn-outline-primary" role="button">Read it</a>
 
             <h3>The Sacker Street Ghost</h3>
             <p>Two teens record their ghost-hunting podcast on an abandoned road.</p>
+            <a href="http://127.0.0.1:4000/001" class="btn btn-outline-primary" role="button">First page</a>
+            <a href="http://127.0.0.1:4000/001" class="btn btn-outline-primary" role="button">Latest update</a>
 
             <h3>Self Portrait</h3>
             <p>A woman deals with her girlfriend's creepy self portrait</p>
+            <a href="" class="btn btn-outline-primary" role="button">Planned</a>
 
             <h3>Venus Cafe</h3>
 
@@ -108,7 +111,6 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
-    <script src=peahatlanding.github.io/memoscopejs/stickynavbar.js ></script>
 
   </body>
 </html>

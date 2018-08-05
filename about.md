@@ -3,16 +3,18 @@ layout: plainpage
 title: About
 permalink: /about
 ---
+
 # About the Comic
 
-Nulla scelerisque massa erat, ac fermentum tellus luctus a. Quisque turpis massa, scelerisque non mauris ac, mattis vehicula magna. Nunc viverra diam quis est dictum consequat. Quisque non sapien lectus. Integer a ligula ac velit euismod lobortis. Nullam commodo orci a magna varius, sed laoreet nulla auctor.
+The Memoscope is a collection of short horror comics written and illustrated by
+NB Clegg.
 
-Curabitur auctor nulla eros, et placerat sapien auctor eget. Duis sed enim est. Vivamus sapien lectus, venenatis nec sapien eget, pharetra consectetur lorem. Nunc nec purus suscipit, suscipit diam non, malesuada lorem.
+New pages every two or three weeks.
 
 {% include socialmedia.html %}
 
 # About the Author
 
-Curabitur auctor nulla eros, et placerat sapien auctor eget. Duis sed enim est. Vivamus sapien lectus, venenatis nec sapien eget, pharetra consectetur lorem. Nunc nec purus suscipit, suscipit diam non, malesuada lorem.
+Flying by the seat of my pants!
 
 {% include authorsocialmedia.html %}
