@@ -5,17 +5,17 @@
     <description>A collection of short horror comics.</description>
     <link>http://127.0.0.1:4000//</link>
     <atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Aug 2018 21:52:44 -0700</pubDate>
-    <lastBuildDate>Sat, 04 Aug 2018 21:52:44 -0700</lastBuildDate>
+    <pubDate>Thu, 09 Aug 2018 19:39:15 -0700</pubDate>
+    <lastBuildDate>Thu, 09 Aug 2018 19:39:15 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>4</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/004.png&quot; alt=&quot;PAGE FOUR&quot; /&gt;&lt;/p&gt;
+        <title>22</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/022.png&quot; alt=&quot;PAGE TWO&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Apr 2017 11:42:56 -0700</pubDate>
-        <link>http://127.0.0.1:4000//004</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//004</guid>
+        <pubDate>Mon, 22 Jan 2018 10:42:56 -0800</pubDate>
+        <link>http://127.0.0.1:4000//022</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//022</guid>
         
         
         <category>page</category>
@@ -23,12 +23,12 @@
       </item>
     
       <item>
-        <title>3</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/003.png&quot; alt=&quot;PAGE THREE&quot; /&gt;&lt;/p&gt;
+        <title>21</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/021.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Apr 2017 11:42:56 -0700</pubDate>
-        <link>http://127.0.0.1:4000//003</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//003</guid>
+        <pubDate>Sun, 21 Jan 2018 10:42:56 -0800</pubDate>
+        <link>http://127.0.0.1:4000//021</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//021</guid>
         
         
         <category>page</category>
@@ -36,12 +36,12 @@
       </item>
     
       <item>
-        <title>2</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/002.png&quot; alt=&quot;PAGE TWO&quot; /&gt;&lt;/p&gt;
+        <title>20</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/020.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Apr 2017 11:42:56 -0700</pubDate>
-        <link>http://127.0.0.1:4000//002</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//002</guid>
+        <pubDate>Sat, 20 Jan 2018 10:42:56 -0800</pubDate>
+        <link>http://127.0.0.1:4000//020</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//020</guid>
         
         
         <category>page</category>
@@ -49,12 +49,90 @@
       </item>
     
       <item>
-        <title>1</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/001.png&quot; alt=&quot;PAGE ONE&quot; /&gt;&lt;/p&gt;
+        <title>18</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/018.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Apr 2017 11:42:56 -0700</pubDate>
-        <link>http://127.0.0.1:4000//001</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//001</guid>
+        <pubDate>Thu, 18 Jan 2018 10:43:56 -0800</pubDate>
+        <link>http://127.0.0.1:4000//018</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//018</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>15</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/015.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Jan 2018 10:44:55 -0800</pubDate>
+        <link>http://127.0.0.1:4000//015</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//015</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>The Sacker Street Ghost</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/ssgcover_resized.png&quot; alt=&quot;PAGE FIVE&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Jan 2018 10:43:46 -0800</pubDate>
+        <link>http://127.0.0.1:4000//014</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//014</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>13</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/013.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Aug 2017 11:42:56 -0700</pubDate>
+        <link>http://127.0.0.1:4000//013</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//013</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>12</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/012.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Aug 2017 11:42:56 -0700</pubDate>
+        <link>http://127.0.0.1:4000//012</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//012</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>11</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/011.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Aug 2017 11:42:56 -0700</pubDate>
+        <link>http://127.0.0.1:4000//011</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//011</guid>
+        
+        
+        <category>page</category>
+        
+      </item>
+    
+      <item>
+        <title>10</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//pages/010.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Aug 2017 11:42:56 -0700</pubDate>
+        <link>http://127.0.0.1:4000//010</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000//010</guid>
         
         
         <category>page</category>

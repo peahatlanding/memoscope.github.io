@@ -10,6 +10,7 @@ body {
 
 .jumbotron {
   background-color: #F5EED4;
+  padding: 0px 0px 50px 0px;
 }
 
 .jumbotron img {
@@ -23,8 +24,15 @@ a {
   font-family: 'Karla', sans-serif;
 }
 
+a:hover {
+  color: #C39BD3;
+  font-family: 'Karla', sans-serif;
+}
+
 div.jumbotron p {
   color: #404040;
+  font-size: 1.5em;
+  font-weight: bolder;
   text-align: center;
 }
 
@@ -33,7 +41,7 @@ div.info p {
 }
 
 .row {
-  margin: 100px 0px 100px;
+  margin: 50px 0px 50px;
 }
 
 
@@ -43,24 +51,45 @@ h1 {
 }
 
 h2 {
-  color: #EB984E;
-  font-family: 'Cute Font', serif;
+  color: #FFFFFF;
+  font-size: 4em;
+  font-family: 'Jolly Lodger', cursive;
 }
 
 h3 {
   color: #C39BD3;
-  font-family: 'Jolly Lodger', cursive;
+  font-size: 3em;
+  font-family: 'Cute Font', serif;
 }
 
 p {
   color: #FCF3CF;
+  font-size: 1em;
   font-family: 'Karla', sans-serif;
+  text-align: left;
+}
+
+p.lead{
+  color: #FCF3CF;
+  font-size: 1.5em;
+  font-family: 'Karla', sans-serif;
+  font-weight: bold;
   text-align: left;
 }
 
 img {
     max-height: 100%;
     max-width: 100%;
+}
+
+.badge-success {
+    color: #363636;
+    background-color: #7BBA7B;
+}
+
+.badge-light {
+    color: #363636;
+    background-color: #FCF3CF;
 }
 
 .btn {
@@ -70,6 +99,13 @@ img {
 
 .btn-outline-primary {
   border-color: #FCF3CF;
+  margin: 5px 5px 50px 5px;
+}
+
+.btn:hover {
+  background-color: #FCF3CF;
+  color: #C39BD3;
+  font-family: 'Karla', sans-serif;
 }
 
 #turn {
@@ -84,7 +120,6 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
 
 #banner
@@ -112,8 +147,9 @@ img {
   background-color: transparent;
 }
 
+
 /* Navbar links */
-#navbar a {
+#navbarblack a {
   float: left;
   display: block;
   color: #363636;
@@ -122,4 +158,33 @@ img {
   text-decoration: none;
   font-family: 'Jolly Lodger', cursive;
   font-size: 3em;
+}
+#navbarblack a:hover {
+  color: #C39BD3;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #F5EED4;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-family: 'Jolly Lodger', cursive;
+  font-size: 3em;
+}
+
+#navbar a:hover {
+  color: #C39BD3;
+}
+
+/* FOOTER STYLES */
+/*=============================*/
+
+footer {
+  padding: 25px;
+}
+
+footer a {
+  text-align: center;
 }

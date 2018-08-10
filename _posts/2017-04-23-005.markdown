@@ -1,0 +1,8 @@
+---
+layout: comic
+title:  "5"
+date:   2017-04-23 11:44:55 -0700
+categories: page
+permalink: /005
+---
+![PAGE FIVE]({{ site.url }}/pages/005.png)

@@ -1,0 +1,8 @@
+---
+layout: comic
+date:   2018-01-21 11:42:56 -0700
+title: 21
+categories: page
+permalink: /021
+---
+![]({{ site.url }}/pages/021.png)

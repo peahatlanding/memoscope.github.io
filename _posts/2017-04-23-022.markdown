@@ -1,0 +1,8 @@
+---
+layout: comic
+title:  "22"
+date:   2018-01-22 11:42:56 -0700
+categories: page
+permalink: /022
+---
+![PAGE TWO]({{ site.url }}/pages/022.png)

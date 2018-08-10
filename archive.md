@@ -8,9 +8,9 @@ permalink: /archive
 <ul class="post-list archive-ul">
   {% for post in site.categories.page %}
     <li class="archive-li">
-      <h2>
+      <p>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
+      </p>
     </li>
   {% endfor %}
 </ul>

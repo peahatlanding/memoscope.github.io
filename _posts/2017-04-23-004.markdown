@@ -1,8 +1,8 @@
 ---
 layout: comic
-title:  "4"
-date:   2017-04-23 11:42:56 -0700
-category: page
+date:   2017-04-23 11:43:46 -0700
+title: 4
+categories: page
 permalink: /004
 ---
-![PAGE FOUR]({{ site.url }}/pages/004.png)
+![PAGE FIVE]({{ site.url }}/pages/004.png)

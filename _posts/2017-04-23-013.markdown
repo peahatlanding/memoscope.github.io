@@ -1,0 +1,8 @@
+---
+layout: comic
+title:  "13"
+date:   2017-08-30 11:42:56 -0700
+category: page
+permalink: /013
+---
+![]({{ site.url }}/pages/013.png)

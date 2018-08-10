@@ -135,7 +135,16 @@ a {
   text-align: center;
 }
 
-
+#navbar a {
+  float: left;
+  display: block;
+  color: #F5EED4;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  font-family: 'Jolly Lodger', cursive;
+  font-size: 3em;
+}
 
 /* COMIC PANEL STYLES */
 /*=============================*/

@@ -1,0 +1,8 @@
+---
+layout: comic
+title:  "15"
+date:   2018-01-15 11:44:55 -0700
+categories: page
+permalink: /015
+---
+![]({{ site.url }}/pages/015.png)

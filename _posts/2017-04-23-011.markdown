@@ -1,0 +1,8 @@
+---
+layout: comic
+title:  "11"
+date:   2017-08-28 11:42:56 -0700
+category: page
+permalink: /011
+---
+![]({{ site.url }}/pages/011.png)
