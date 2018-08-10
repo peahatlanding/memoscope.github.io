@@ -25,6 +25,7 @@ a {
 }
 
 a:hover {
+  background-color: transparent;
   color: #C39BD3;
   font-family: 'Karla', sans-serif;
 }
@@ -146,6 +147,7 @@ img {
   overflow: hidden;
   background-color: transparent;
 }
+
 
 
 /* Navbar for home page*/
