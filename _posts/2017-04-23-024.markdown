@@ -1,0 +1,8 @@
+---
+layout: comic
+date:   2018-01-24 11:43:46 -0700
+title: The Sacker Street Ghost
+categories: page
+permalink: /024
+---
+![PAGE FIVE]({{ site.url }}/pages/024.png)

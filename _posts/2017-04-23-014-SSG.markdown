@@ -5,4 +5,4 @@ title: The Sacker Street Ghost
 categories: page
 permalink: /014
 ---
-![PAGE FIVE]({{ site.url }}/pages/ssgcover_resized.png)
+![PAGE FIVE]({{ site.url }}/pages/014.png)

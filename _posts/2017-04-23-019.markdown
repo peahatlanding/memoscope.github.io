@@ -1,8 +1,8 @@
 ---
 layout: comic
-title:  "9"
+title:  "19"
 date:   2018-01-19 11:42:56 -0700
 category: page
-permalink: /009
+permalink: /019
 ---
-![]({{ site.url }}/pages/009.png)
+![]({{ site.url }}/pages/019.png)

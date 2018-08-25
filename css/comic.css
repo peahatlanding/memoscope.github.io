@@ -146,6 +146,11 @@ a {
   font-size: 3em;
 }
 
+#navbar a:hover {
+  color: #C39BD3;
+  background-color: transparent;
+}
+
 /* COMIC PANEL STYLES */
 /*=============================*/
 .comic-panel {

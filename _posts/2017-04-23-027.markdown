@@ -1,0 +1,8 @@
+---
+layout: comic
+title:  "27"
+date:   2018-01-27 11:42:56 -0700
+category: page
+permalink: /027
+---
+![]({{ site.url }}/pages/027.png)

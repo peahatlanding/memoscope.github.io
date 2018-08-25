@@ -1,0 +1,8 @@
+---
+layout: comic
+title:  "26"
+date:   2018-01-26 11:45:56 -0700
+categories: page
+permalink: /026
+---
+![PAGE SIX]({{ site.url }}/pages/026.png)

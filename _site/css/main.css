@@ -25,6 +25,7 @@ a {
 }
 
 a:hover {
+  background-color: transparent;
   color: #C39BD3;
   font-family: 'Karla', sans-serif;
 }
@@ -148,19 +149,22 @@ img {
 }
 
 
-/* Navbar links */
+
+/* Navbar for home page*/
 #navbarblack a {
   float: left;
   display: block;
   color: #363636;
   text-align: center;
   padding: 14px;
+  margin-bottom: 30px;
   text-decoration: none;
   font-family: 'Jolly Lodger', cursive;
   font-size: 3em;
 }
 #navbarblack a:hover {
   color: #C39BD3;
+  background-color: transparent;
 }
 
 #navbar a {
@@ -176,6 +180,7 @@ img {
 
 #navbar a:hover {
   color: #C39BD3;
+  background-color: transparent;
 }
 
 /* FOOTER STYLES */
